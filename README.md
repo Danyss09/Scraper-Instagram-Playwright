@@ -87,5 +87,5 @@ El script:
 ---
 
 ## 💬  **Proyecto académico sobre scraping con Playwright.**
-#**Programación para dispositivos moviles - UCE**
+#**Programación para dispositivos móviles - UCE**
 **Grupo 3**
