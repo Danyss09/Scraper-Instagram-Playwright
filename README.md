@@ -20,12 +20,17 @@ Este script realiza web scraping en Instagram para obtener:
 
 1. Clonar o copiar este proyecto en tu máquina
 2. Abrir una terminal dentro del proyecto
-3. Instalar dependencias:
+3. Crear entorno 
+```bash
+   python -m venv venv
+```
+4. Instalar dependencias:
 
    ```bash
    pip install -r requirements.txt
    playwright install
    ```
+
 
 ---
 
@@ -50,7 +55,7 @@ $env:IG_PASS="tu_contraseña"
 ## ▶️ Ejecución
 
 ```bash
-python ig_followers_scraper_login.py
+python ig_followers_scraper.py
 ```
 
 El script:
@@ -81,5 +86,6 @@ El script:
 
 ---
 
-## 💬 Autor
-**Alexis** — Proyecto académico sobre scraping con Playwright.
+## 💬  **Proyecto académico sobre scraping con Playwright.**
+**Programación para dispositivos moviles - UCE**
+**Grupo 3**
