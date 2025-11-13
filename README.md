@@ -70,7 +70,7 @@ El script:
 
 | Archivo | Descripción |
 |----------|--------------|
-| `ig_followers_scraper_login.py` | Script principal del scraping |
+| `ig_followers_scraper.py` | Script principal del scraping |
 | `requirements.txt` | Dependencias del proyecto |
 | `README.md` | Instrucciones de uso |
 | `auth.json` | Sesión guardada de Instagram (se genera automáticamente) |
@@ -87,5 +87,5 @@ El script:
 ---
 
 ## 💬  **Proyecto académico sobre scraping con Playwright.**
-**Programación para dispositivos moviles - UCE**
+#**Programación para dispositivos moviles - UCE**
 **Grupo 3**
