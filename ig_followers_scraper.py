@@ -7,7 +7,7 @@ import pandas as pd
 from playwright.sync_api import sync_playwright, TimeoutError as PWTimeout
 
 # ---------- CONFIG ----------
-TARGET = "erik.mendozafu"         # perfil objetivo (público)
+TARGET = "fakexdjjj"         # perfil objetivo (público)
 MAX_FOLLOWERS_TO_SCRAPE = 4000    # máximo de seguidores a extraer
 SCROLL_PAUSE = (1.2, 2.4)         # pausa aleatoria entre scrolls
 OUTPUT_FILE = "instagram_followers.xlsx"

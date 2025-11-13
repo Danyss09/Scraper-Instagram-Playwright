@@ -41,8 +41,8 @@ export IG_PASS="tu_contraseña"
 
 ### En Windows (PowerShell)
 ```bash
-$env:IG_USER="tu_usuario"
-$env:IG_PASS="tu_contraseña"
+$env:IG_USER="newdan68"
+$env:IG_PASS="newdan1234"
 ```
 
 ---
